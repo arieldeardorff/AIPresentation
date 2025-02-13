@@ -1,0 +1,17 @@
+---
+title: "AI in Research Data Management and Sharing"
+format: 
+  revealjs:
+    theme: simple 
+editor: visual
+---
+
+## Creating Data Management Plans
+
+-   Enter info here
+-   bullet 2
+-   bullet 3
+
+## Data Anonymization
+
+Enter info here
