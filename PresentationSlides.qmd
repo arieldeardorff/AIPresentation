@@ -13,7 +13,7 @@ editor: visual
 -   Both the format and contents are often unfamiliar
 -   Can Versa write an NIH-compliant data management and sharing plan?
 -   I entered a (very) brief overview of a clinical project
--   Shared that I wanted to use Vivli as my repository
+-   Mentioned that I wanted to use Vivli as my repository
 
 ## Everything Starts off fine
 
