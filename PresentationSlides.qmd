@@ -3,7 +3,8 @@ title: "AI for Data Management Planning"
 format: 
   revealjs:
     theme: simple
-    incremental: true 
+    incremental: true
+    self-contained: true 
 editor: visual
 ---
 
