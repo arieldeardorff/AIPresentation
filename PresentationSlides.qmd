@@ -26,7 +26,7 @@ editor: visual
 
 ![](images/Plan2.png)
 
--   Second half doesn't match the recommended format - not sure why
+-   Second half doesn't match the recommended format 
 
 ## Better: Suggesting elements to include in a plan
 
