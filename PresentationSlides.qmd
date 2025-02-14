@@ -1,17 +1,44 @@
 ---
-title: "AI in Research Data Management and Sharing"
+title: "AI for Data Management Planning"
 format: 
   revealjs:
-    theme: simple 
+    theme: simple
+    incremental: true 
 editor: visual
 ---
 
-## Creating Data Management Plans
+## Writing NIH Data Management and Sharing Plans
 
--   Enter info here
--   bullet 2
--   bullet 3
+-   Writing data management plans can be time consuming
+-   Both the format and contents are often unfamiliar
+-   Can Versa write an NIH-compliant data management and sharing plan?
+-   I entered a (very) brief overview of a clinical project
+-   Shared that I wanted to use Vivli as my repository
 
-## Data Anonymization
+## Everything Starts off fine
 
-Enter info here
+![](images/Plan1.png)
+
+-   Had the basic format and sections mostly down
+-   Some good language
+
+## But then goes off the rails a bit
+
+![](images/Plan2.png)
+
+-   Second half doesn't match the recommended format - not sure why
+
+## Better: Suggesting elements to include in a plan
+
+::: {layout-ncol="2"}
+Suggesting Repositories
+![](images/ClinRepositories.png) 
+
+Suggesting Standards
+![](images/ClinStandards.png)
+:::
+
+## Bigger Challenge: Can AI help carry out the plan?
+-   creating systems to manage data - suggesting tools and workflows?
+-   preparing data for sharing - adding metadata, anonymizing data, etc
+-   uploading data to a repository?
