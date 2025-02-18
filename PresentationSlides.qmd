@@ -1,44 +1,51 @@
 ---
 title: "AI for Data Management Planning"
+author: Ariel Deardorff
+date: Feb 27, 2025
 format: 
   revealjs:
-    theme: simple
+    theme: default
     incremental: true
 editor: visual
 ---
 
-## Writing NIH Data Management and Sharing Plans
+## Can AI write NIH Data Management and Sharing Plans?
 
 -   Writing data management plans can be time consuming
--   Both the format and contents are often unfamiliar
+-   Both the format and content are often unfamiliar to researchers
 -   Can Versa write an NIH-compliant data management and sharing plan?
 -   I entered a (very) brief overview of a clinical project
 -   Mentioned that I wanted to use Vivli as my repository
 
-## Everything Starts off fine
+## Everything starts off fine
 
-![](images/Plan1.png)
+![](images/Plan1.png) 
 
 -   Had the basic format and sections mostly down
--   Some good language
+-   Some good language for the standards section
 
 ## But then goes off the rails a bit
 
 ![](images/Plan2.png)
 
--   Second half doesn't match the recommended format 
+-   Second half doesn't match the recommended format (although some of the content is good)
 
-## Better: Suggesting elements to include in a plan
+## What worked better: suggesting elements to include in a plan
 
-::: {layout-ncol="2"}
-Suggesting Repositories
-![](images/ClinRepositories.png) 
+## Suggesting repositories
 
-Suggesting Standards
+![](images/ClinRepositories.png)
+
+## Suggesting standards 
+
 ![](images/ClinStandards.png)
-:::
 
-## Bigger Challenge: Can AI help carry out the plan?
--   creating systems to manage data - suggesting tools and workflows?
--   preparing data for sharing - adding metadata, anonymizing data, etc
--   uploading data to a repository?
+## Next steps: can AI help carry out the plan?
+
+Some ideas:
+
+-   Suggesting tools and workflows, validating forms and surveys based on what you said you would do
+-   Preparing data for sharing - adding metadata, anonymizing data, etc
+-   Uploading data to a repository 
+
+## Questions?
